@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dbb707b-37b1-41aa-bd8b-85389a254f30" name="Default Changelist" comment="Premier commit">
-      <change afterPath="$PROJECT_DIR$/src/pages/ApiPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HelloTo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ApiPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ApiPage.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +62,8 @@
       <workItem from="1580835697921" duration="16321000" />
       <workItem from="1581336365815" duration="1032000" />
       <workItem from="1581353674236" duration="189000" />
-      <workItem from="1581355403235" duration="4283000" />
+      <workItem from="1581355403235" duration="4497000" />
+      <workItem from="1581595879159" duration="1182000" />
     </task>
     <servers />
   </component>
@@ -76,7 +75,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
